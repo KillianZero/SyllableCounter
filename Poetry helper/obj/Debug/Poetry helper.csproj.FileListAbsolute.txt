@@ -15,3 +15,20 @@ D:\Vs Projects\Poetry helper\Poetry helper\obj\Debug\Poetry helper.exe
 D:\Vs Projects\Poetry helper\Poetry helper\obj\Debug\Poetry helper.pdb
 D:\Vs Projects\Poetry helper\Poetry helper\obj\Debug\App.baml
 D:\Vs Projects\Poetry helper\Poetry helper\obj\Debug\Style\StyleDic.baml
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\bin\Debug\Poetry helper.exe.config
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\bin\Debug\Poetry helper.exe
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\bin\Debug\Poetry helper.pdb
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\Poetry helper.csprojAssemblyReference.cache
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\MainWindow.g.cs
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\App.g.cs
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\Poetry helper_MarkupCompile.cache
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\Poetry helper_MarkupCompile.lref
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\App.baml
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\MainWindow.baml
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\Style\StyleDic.baml
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\Poetry helper.g.resources
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\Poetry_helper.Properties.Resources.resources
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\Poetry helper.csproj.GenerateResource.cache
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\Poetry helper.csproj.CoreCompileInputs.cache
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\Poetry helper.exe
+C:\Users\kotov\Documents\GitHub\SyllableCounter\Poetry helper\obj\Debug\Poetry helper.pdb
